@@ -1,3 +1,4 @@
+[![GitHub Actions Demo](https://github.com/tj-jawed/flask-demo/actions/workflows/github-action-demo.yml/badge.svg)](https://github.com/tj-jawed/flask-demo/actions/workflows/github-action-demo.yml)
 
 # flask-demo
 
